@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![Sarahyhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarahyhi)
-![Sarahyhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarahyhi&hide=contribs,prs)
+![Sarahyhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarahyhi&hide_rank&rank_icon=github)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahyhi)
