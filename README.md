@@ -17,3 +17,7 @@ Here are some ideas to get you started:
 
 ![Sarahyhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarahyhi&hide_rank&rank_icon=github&hide=prs,issues)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahyhi)
+
+**Skills**
+
+<code><img height="32" src="https://cdn.jsdelivr.net/npm/simple0icons@v5/icons/python.svg"></code>
