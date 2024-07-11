@@ -19,11 +19,12 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahyhi)
 
 **Skills**
-
-<code><img height="32" width="32" src="https://cdn.simpleicons.org/python"/></code>
-<code><img height="32" width="32" src="https://cdn.simpleicons.org/jupyter"/></code>
-<code><img height="32" width="32" src="https://cdn.simpleicons.org/databricks"/></code>
-<code><img height="32" width="32" src="https://cdn.simpleicons.org/r"/></code>
-<code><img height="32" width="32" src="https://cdn.simpleicons.org/mysql"/></code>
-<code><img height="32" width="32" src="https://cdn.simpleicons.org/tableau"/></code>
-<code><img height="32" width="32" src="https://cdn.simpleicons.org/discord"/></code>
+<p>
+<img height="32" width="32" src="https://cdn.simpleicons.org/python"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/jupyter"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/databricks"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/r"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/mysql"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/tableau"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/discord"/>
+</p>
