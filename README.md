@@ -1,5 +1,5 @@
 ## Hi 👋
-## I'm Hui Yi Huang and you can call me Sara
+# I'm Hui Yi Huang and you can call me Sara
 
 <!--
 **sarahyhi/sarahyhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
