@@ -20,11 +20,10 @@ Here are some ideas to get you started:
 
 **Skills**
 
-<code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg"></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/jupyter.svg"></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/databricks.svg"></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/r.svg"></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mysql.svg"></code>
-
-<img height="32" width="32" src="https://cdn.simpleicons.org/python" />
-
+<img height="32" width="32" src="https://cdn.simpleicons.org/python"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/jupyter"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/databricks"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/r"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/mysql"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/tableau"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/discord"/>
