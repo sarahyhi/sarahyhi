@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Sarahyhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarahyhi&hide_rank&rank_icon=github&hide=prs,issues)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahyhi)
+
 
 **Skills**
 <p>
